@@ -1,0 +1,433 @@
+body {
+	margin: 0px;
+	font-size: 14px;
+	font-family: "微软雅黑", "Arial Narrow", HELVETICA;
+) no-repeat;
+	background-position: top 110px center
+	
+}
+a {
+	text-decoration: none;
+	color: #000;
+}
+a:hover {
+}
+img {
+	border: 0px;
+}
+ul {
+	margin: 0px;
+	padding: 0px;
+}
+ul li {
+	list-style: none;
+}
+.while {
+	background: #fff;
+}
+.wrap {
+	width: 100%;
+}
+.header {
+}
+.w1194 {
+	width: 1190px;
+}
+.center {
+	margin: 0px auto;
+}
+.top {
+	height: 85px;
+}
+.top .logo {
+	background: url(../images/2014/logo.png) no-repeat 10px center;
+	width: 380px;
+	float: left;
+	height: 85px;
+}
+.top .search {
+	float: right;
+	margin-top: 18px;
+	margin-right: 30px;
+}
+.top .search .searchform {
+	float: left;
+	width: 450px;
+}
+.top .search .inputbox {
+	width: 388px;
+	height: 38px;
+	border: 1px solid #ccc；
+}
+.top .search .tag {
+	float: right;
+	line-height: 20px;
+}
+.clr {
+	clear: both;
+}
+.nav {
+	background: #2c3e50;
+	line-height: 40px;
+	height: 40px;
+}
+.nav ul {
+	margin: 0px;
+	padding: 0px;
+}
+.nav ul li {
+	float: left;
+	list-style: none;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+.nav ul li a {
+	color: #fff;
+	font-size: 16px;
+	font-weight: bold;
+}
+.nav .icon {
+	width: 40px;
+	height: 40px;
+	background: url(../images/2014/nav_icon.png);
+	margin-left: 0px;
+	margin-right: 0px;
+}
+.nav .home {
+	width: 40px;
+	height: 40px;
+	background: url(../images/2014/nav_home.png) no-repeat center center;
+	margin-right: 0px;
+}
+.nav .index {
+	margin-left: 10px;
+}
+banne {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.content {
+	padding-top: 10px;
+	background: #fff;
+}
+.content:before {
+	clear: both;
+}
+.content .pleft {
+	width: 840px;
+	float: left;
+}
+.content .pleft .t1 {
+}
+.content .pleft .t1content {
+	margin-top: 25px;
+}
+.content .pleft .t1content ul li {
+	margin-bottom: 10px;
+	border-bottom: 1px dashed #ccc;
+	height: 120px;
+	display: block;
+}
+.lpic {
+	float: left;
+	width: 170px;
+}
+.lpic img {
+	border: 0px;
+	width: 155px;
+	height: 106px;
+}
+.rcontent {
+	float: left;
+	width: 650px;
+	margin-left: 10px;
+}
+.rcontent .subject {
+	text-align: center;
+	height: 45px;
+	line-height: 20px;
+}
+.rcontent .subject a {
+	font-size: 18px;
+	font-weight: bold;
+	color: #333;
+}
+.content .pleft .t1content .left {
+	background: url(../images/2014/top.png) center center;
+	width: 145px;
+	height: 328px;
+	float: left;
+}
+.content .pleft .t1content .right {
+	float: right;
+	width: 695px;
+}
+.content .pleft .t1content .right .textlist {
+	float: left;
+}
+.content .pleft .t1content .right .textlist .news {
+	height: 80px;
+	width: 335px;
+}
+.content .pleft .t1content .right .textlist .news .title {
+}
+.content .pleft .t1content .right .textlist .news .title a {
+	color: #d35400;
+	font-size: 16px;
+}
+.content .pleft .t1content .right .textlist .news .info {
+	font-size: 14px;
+}
+.content .pleft .t1content .right .piclist {
+	float: right;
+	width: 360px;
+}
+.content .pleft .t1content .right .piclist ul {
+}
+.content .pleft .t1content .right .piclist ul li {
+	float: left;
+	padding: 3px;
+	border: 1px solid #ccc;
+	margin-right: 11px;
+	margin-bottom: 10px;
+	margin-top: 20px;
+}
+.content .pleft .t1content .right .piclist img {
+	border: 0px;
+	width: 160px;
+	height: 110px;
+}
+.content .pleft .ad1 {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.content .pleft .news {
+}
+.content .pleft .food {
+	margin-top: 20px;
+}
+.content .pleft .news .l {
+	width: 401px;
+	height: 288px;
+	background: url(../images/2014/cb1.png) no-repeat;
+	float: left;
+}
+.content .pleft .news .r {
+	width: 401px;
+	height: 288px;
+	background: url(../images/2014/cb2.png) no-repeat;
+	float: right;
+}
+.content .pleft .news .list {
+	padding-top: 50px;
+	padding-left: 15px;
+}
+.content .pleft .news .list .item {
+	height: 80px;
+	margin-bottom: 10px;
+}
+.content .pleft .news .list .item .p {
+	float: left;
+}
+.content .pleft .news .list .item .t {
+	float: right;
+	width: 255px;
+	font-size: 14px;
+	padding-right: 20px;
+}
+.content .pleft .news .list .item .t span {
+	color: #757575;
+	display: block;
+	margin-top: 5px;
+}
+.content .pleft .news .r .a1 {
+	height: 105px;/*overflow:hidden;*/
+}
+.content .pleft .news .r .a1 ul li {
+	float: left;
+	width: 110px;
+	margin-right: 10px;
+	margin-left: 7px;
+}
+.content .pleft .news .r .a2 {
+	margin-top: 30px;
+	background: url(../images/2014/newsicon.png) repeat-y;
+	height: 130px;
+}
+.content .pleft .news .r .a2 ul li {
+	padding-top: 0px;
+	padding-bottom: 6px;
+	padding-left: 25px;
+	font-size: 14px;
+}
+.content .pleft .food {
+}
+.content .pleft .food .content {
+	margin-top: 15px;
+}
+.content .pleft .food .content .top {
+	position: relative;
+	width: 406px;
+	height: 240px;
+	float: left;
+}
+.content .pleft .food .content .toppic {
+	width: 406px;
+	height: 240px;
+}
+.content .pleft .food .content .top .picinfo {
+	position: absolute;
+	width: 406px;
+	z-indent: 2;
+	left: 0;
+	bottom: 0;
+	background: #000;
+	filter: alpha(opacity=50);
+	-moz-opacity: 0.5;
+	opacity: 0.5;
+}
+.content .pleft .food .content .top .picinfo h1 {
+	color: #fff;
+	font-size: 14px;
+	padding-left: 10px;
+}
+.content .pleft .food .content .top .picinfo h1 a {
+	color: #fff;
+}
+.content .pleft .food .content .rlist {
+	float: right;
+	width: 430px;
+}
+.content .pleft .food .content .rlist .picinfo {
+	position: relative;
+	width: 195px;
+	z-indent: 2;
+	left: 0;
+	bottom: 0;
+	background: #000;
+}
+.content .pleft .food .content .rlist ul {
+	margin: 0px;
+	padding: 0px;
+}
+.content .pleft .food .content .rlist ul li {
+	float: left;
+	list-style: none;
+	margin-left: 20px;
+	margin-bottom: 10px;
+}
+.content .pleft .food .content .rlist ul li img {
+	width: 195px;
+	height: 110px;
+}
+.content .pleft .food .content .rlist .fr {
+	float: right;
+}
+.content .pleft .travel {
+	margin-top: 15px;
+}
+.content .pleft .travel .content {
+}
+.content .pleft .travel .content ul li {
+	width: 210px;
+	float: left;
+	line-height: 20px;
+}
+.content .pleft .travel .content .at {
+	width: 190px;
+	display: block;
+}
+.content .pleft .travel .content img {
+	width: 195px;
+	height: 110px;
+}
+.content .pleft .film {
+	margin-top: 50px;
+}
+.content .pleft .film .content {
+	margin-top: 0px;
+}
+.content .pright {
+	float: right;
+	width: 330px;
+	margin-left: 20px;
+}
+.content .pright .r1 {
+}
+.content .pright .r1 .r1_a {
+	float: left;
+}
+.content .pright .r1 .r1_b {
+	float: right;
+}
+.content .pright .r1 .r1_b .a {
+	margin-bottom: 4px;
+}
+.content .pright .r2 {
+	margin-top: 5px;
+}
+.content .pright .r2 ul li {
+	float: left;
+	margin-bottom: 3px;
+}
+.content .pright .r2 .l2 {
+	margin-left: 7px;
+	margin-right: 6px;
+}
+.content .pright .r4 {
+	margin-top: 10px;
+}
+.content .pright .r4 .content {
+	background: url(../images/2014/tel_bg2.png) no-repeat;
+	padding-left: 50px;
+	padding-top: 12px;
+	padding-bottom: 10px;
+	line-height: 25px;
+	font-size: 14px;
+	margin-top: 0px;
+}
+.content .pright .r5 {
+	margin-top: 10px;
+}
+.content .pright .r6 {
+	margin-top: 20px;
+}
+.content .pright .r6 .content {
+	margin-top: 0px;
+}
+.content .pright .r6 .content .c2 {
+	margin-top: 20px;
+	line-height: 25px;
+	padding-left: 10px;
+}
+.content .pright .r7 {
+	margin-top: 20px;
+}
+.footer {
+	background: #e7e7e7;
+	border-top: 1px solid #cbcbcb;
+	margin-top: 20px;
+	height: 400px;
+}
+.cpic {
+	padding-top: 30px;
+	float: left;
+	width: 260px;
+}
+.ws {
+	float: left;
+	width: 930px;
+	text-align: center;
+	margin-top: 80px;
+	line-height: 30px;
+}
+.ws li {
+	text-align: center;
+	list-style: none;
+}
+.content .pright .r3 .l1 {
+	float: left;
+}
+.content .pright .r3 .l4 {
+	float: right;
+}
